@@ -8,6 +8,7 @@
       ],
       "weather":"Clear",
       "geted":[
+        1,2,3,4
       ]
     },
     {
@@ -25,27 +26,60 @@
   "creature": [
     {
       "id": "1",
-      "creaturename": "カエル",
-      "description": "雨の日だけ来るよ",
-      "img": "/character/cloudy_rainy/flog.png"
+      "creaturename": "ルリカケス",
+      "description": "光沢のある瑠璃色の羽が美しい、奄美群島にのみ生息する国の天然記念物",
+      "img": "/character/sunny/rurikakesu.png"
     },
     {
       "id": "2",
-      "creaturename": "カナヘビ",
-      "description": "よくひなたぼっこをしているよ",
-      "img": "/character/cloudy_rainy/kanahebi.png"
+      "creaturename": "サツマニシキ",
+      "description": "蝶のように鮮やかな模様を持ち、昼間に活動する蛾の仲間",
+      "img": "/character/sunny/satumanishiki.png"
     },
     {
       "id": "3",
-      "creaturename": "みみず",
-      "description": "ひからびてるときがある",
-      "img": "/character/cloudy_rainy/mimizu.png"
+      "creaturename": "ソテツ",
+      "description": "南国の青空と海を背景に力強く葉を広げる、鹿児島の風景を象徴する植物",
+      "img": "/character/sunny/sotetu.png"
     },
     {
       "id": "4",
-      "creaturename": "とんぼ",
-      "description": "めがおおきいね",
-      "img": "/character/sunny/tonbo.png"
+      "creaturename": "ミヤマキリシマ",
+      "description": "初夏に霧島連山の火山れき地をピンク色に染め上げる、美しいツツジ",
+      "img": "/character/sunny/miyamakirishima.png"
+    },
+    {
+      "id": "5",
+      "creaturename": "アマミイシカワガエル",
+      "description": "緑の体に金色の斑点が輝く「日本で最も美しいカエル」と称され、雨の夜に美しい声で鳴く",
+      "img": "/character/cloudy_rainy/amamiishikawagaeru.png"
+    },
+    {
+      "id": "6",
+      "creaturename": "アマミノクロウサギ",
+      "description": "雨をものともせず森を歩き回る、原始的な姿を残した国の特別天然記念物",
+      "img": "/character/cloudy_rainy/amaminokurousagi.png"
+    },
+    {
+      "id": "7",
+      "creaturename": "ヒカゲヘゴ",
+      "description": "雨に濡れると葉を生き生きと広げ、まるで恐竜時代のような風景を作り出す巨大なシダ植物",
+      "img": "/character/cloudy_rainy/hikagehego.png"
+    },
+    {
+      "id": "8",
+      "creaturename": "オオスミサンショウウオ",
+      "description": " 雨に潤う清流の源流部にひっそりと暮らす、サンショウウオ",
+      "img": "/character/cloudy_rainy/oosumisansyouuo.png"
+    },
+    {
+      "id": "9",
+      "creaturename": "オオトラツグミ",
+      "description": "薄暗い森の奥から口笛のような鳴き声が聞こえる、幻の鳥とも呼ばれる天然記念物",
+      "img": "/character/cloudy_rainy/ootoratugumi.png"
     }
   ]
+
+
+  
 }
