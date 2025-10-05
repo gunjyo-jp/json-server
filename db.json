@@ -25,31 +25,31 @@
   ],
   "creature": [
     {
-      "id": "1",
+      "id": 1,
       "creaturename": "ルリカケス",
       "description": "光沢のある瑠璃色の羽が美しい、奄美群島にのみ生息する国の天然記念物",
       "img": "/character/sunny/rurikakesu.png"
     },
     {
-      "id": "2",
+      "id": 2,
       "creaturename": "サツマニシキ",
       "description": "蝶のように鮮やかな模様を持ち、昼間に活動する蛾の仲間",
       "img": "/character/sunny/satumanishiki.png"
     },
     {
-      "id": "3",
+      "id": 3,
       "creaturename": "ソテツ",
       "description": "南国の青空と海を背景に力強く葉を広げる、鹿児島の風景を象徴する植物",
       "img": "/character/sunny/sotetu.png"
     },
     {
-      "id": "4",
+      "id": 4,
       "creaturename": "ミヤマキリシマ",
       "description": "初夏に霧島連山の火山れき地をピンク色に染め上げる、美しいツツジ",
       "img": "/character/sunny/miyamakirishima.png"
     },
     {
-      "id": "5",
+      "id": 5,
       "creaturename": "アマミイシカワガエル",
       "description": "緑の体に金色の斑点が輝く「日本で最も美しいカエル」と称され、雨の夜に美しい声で鳴く",
       "img": "/character/cloudy_rainy/amamiishikawagaeru.png"
