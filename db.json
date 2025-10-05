@@ -28,25 +28,25 @@
       "id": "1",
       "creaturename": "カエル",
       "description": "雨の日だけ来るよ",
-      "img": "src/assets/character/cloudy_rainy/flog.png"
+      "img": "/character/cloudy_rainy/flog.png"
     },
     {
       "id": "2",
       "creaturename": "カナヘビ",
       "description": "よくひなたぼっこをしているよ",
-      "img": "src/assets/character/cloudy_rainy/kanahebi.png"
+      "img": "/character/cloudy_rainy/kanahebi.png"
     },
     {
       "id": "3",
       "creaturename": "みみず",
       "description": "ひからびてるときがある",
-      "img": "src/assets/character/cloudy_rainy/mimizu.png"
+      "img": "/character/cloudy_rainy/mimizu.png"
     },
     {
       "id": "4",
       "creaturename": "とんぼ",
       "description": "めがおおきいね",
-      "img": "src/assets/character/sunny/tonbo.png"
+      "img": "/character/sunny/tonbo.png"
     }
   ]
 }
